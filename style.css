@@ -10,6 +10,7 @@ html
 {
     font-family: "Bagel Fat One", system-ui;
     background-color: rgb(50, 40, 80);
+    background-image: linear-gradient(to bottom,rgb(60, 50, 90), rgb(50,40,80));
     color:aliceblue;
 }
 
