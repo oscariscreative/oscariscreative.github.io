@@ -12,3 +12,8 @@ html
     background-color: rgb(50, 40, 80);
     color:aliceblue;
 }
+
+html:link
+{
+  color:#abffff;
+}
